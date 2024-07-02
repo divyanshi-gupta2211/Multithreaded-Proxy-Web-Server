@@ -24,7 +24,7 @@ This project is implemented using C and Parsing of HTTP.
 - ## How to Run
 
 ```bash
-$ git clone https://github.com/divyanshi-gupta2211/Multithreaded-Proxy-Web-Server-.git
+$ git clone https://github.com/divyanshi-gupta2211/Multithreaded-Proxy-Web-Server.git
 $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
